@@ -25,3 +25,6 @@ button.addEventListener('click', (event) => {
 
     result.textContent = `Love Score: ${ans}% ❤️`;
 });
+
+
+console.log(`hey`)
